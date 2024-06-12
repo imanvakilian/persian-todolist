@@ -1,0 +1,1 @@
+export type Tpayload = { userId: number };
